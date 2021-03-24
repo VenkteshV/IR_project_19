@@ -14,4 +14,12 @@ In QC_science folder inside code_and notebooks there are files which implement t
   ------IR_PROJECT_QC_BERT_euclidean_baselines_inference_.ipynb  - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
 
 
+In khan acad 
+------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_inference_.ipynb - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
+------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_training_.ipynb - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
+------- IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_inference.ipynb
+------ IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_training.ipynb
+------ khan_acad_HyperIM.ipynb
+------- logistic_regression_khan_acad_science.ipynb
+
 All models are available at https://drive.google.com/drive/folders/1bDLaaSnlaNBXKTAWYNR77Ifjlo7x6jMd?usp=sharing . Mount drive on google colab and the code takes care of loading everything
