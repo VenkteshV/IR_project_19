@@ -7,18 +7,18 @@ ARC_data.zip and khan_acad_data.zip has two datasets with train and test and val
 
 # Code and notebooks -> QC Science :
 
-  -----IR_PROJECT_QC_BERT_euclidean_baselines_training_.ipynb  - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
-  -----IR_project_QC_euclidean_taxonomy_prediction_dual_BERT_training_andinference.ipynb - DUAL BERT training and inference <br />
-  ------QC_HyperIM.ipynb  - HyperIM baseline training <br />
-  -------- QC_HyperIM_inference.ipynb - HyperIM baseline inference <br />
-  -------- logistic_regression_QC_science.ipynb - logistic regression baseline <br />
-  ------IR_PROJECT_QC_BERT_euclidean_baselines_inference_.ipynb  - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
+  -----IR_PROJECT_QC_BERT_euclidean_baselines_training_.ipynb  -> BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
+  -----IR_project_QC_euclidean_taxonomy_prediction_dual_BERT_training_andinference.ipynb -> DUAL BERT training and inference <br />
+  ------QC_HyperIM.ipynb  -> HyperIM baseline training <br />
+  -------- QC_HyperIM_inference.ipynb -> HyperIM baseline inference <br />
+  -------- logistic_regression_QC_science.ipynb -> logistic regression baseline <br />
+  ------IR_PROJECT_QC_BERT_euclidean_baselines_inference_.ipynb  -> BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
 
 
 #  Code and notebooks -> Khan acad :
 
-------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_inference_.ipynb - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
-------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_training_.ipynb - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
+------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_inference_.ipynb -> BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
+------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_training_.ipynb -> BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
 ------- IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_inference.ipynb
 ------ IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_training.ipynb
 ------ khan_acad_HyperIM.ipynb
