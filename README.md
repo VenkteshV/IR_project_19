@@ -1,4 +1,4 @@
-### IR_project_19
+## IR_project_19
 
 IR_project poincare _embedding_training folder has the code for training poincare embeddings as mentioned in report for hierarchical labels. 
 It also contains the models that have to be referred or uploaded on colab when running the code in code_and_notebooks folder.
