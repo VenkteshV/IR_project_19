@@ -1,11 +1,12 @@
-# IR_project_19
+## IR_project_19
 
 IR_project poincare _embedding_training folder has the code for training poincare embeddings as mentioned in report for hierarchical labels. 
 It also contains the models that have to be referred or uploaded on colab when running the code in code_and_notebooks folder.
 
 ARC_data.zip and khan_acad_data.zip has two datasets with train and test and val csv files
 
-In QC_science folder inside code_and notebooks there are files which implement the baselines
+# In QC_science folder inside code_and notebooks there are files which implement the baselines :
+
   -----IR_PROJECT_QC_BERT_euclidean_baselines_training_.ipynb  - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
   -----IR_project_QC_euclidean_taxonomy_prediction_dual_BERT_training_andinference.ipynb - DUAL BERT training and inference <br />
   ------QC_HyperIM.ipynb  - HyperIM baseline training <br />
@@ -14,7 +15,8 @@ In QC_science folder inside code_and notebooks there are files which implement t
   ------IR_PROJECT_QC_BERT_euclidean_baselines_inference_.ipynb  - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
 
 
-In khan acad 
+# In khan acad :
+
 ------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_inference_.ipynb - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
 ------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_training_.ipynb - BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
 ------- IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_inference.ipynb
