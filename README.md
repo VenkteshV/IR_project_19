@@ -19,9 +19,8 @@ ARC_data.zip and khan_acad_data.zip has two datasets with train and test and val
 
 ------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_inference_.ipynb -> BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines inference script <br />
 ------- IR_PROJECT_khan_acad_BERT_euclidean_baselines_training_.ipynb -> BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
-------- IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_inference.ipynb
------- IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_training.ipynb
------- khan_acad_HyperIM.ipynb
-------- logistic_regression_khan_acad_science.ipynb
+------- IR_khan_acad_euclidean_taxonomy_prediction_dual_BERT_inference.ipynb -> DUAL BERT training and inference <br />
+------ khan_acad_HyperIM.ipynb  -> HyperIM baseline training <br />
+------- logistic_regression_khan_acad_science.ipynb -> logistic regression baseline <br />
 
 All models are available at https://drive.google.com/drive/folders/1bDLaaSnlaNBXKTAWYNR77Ifjlo7x6jMd?usp=sharing . Mount drive on google colab and the code takes care of loading everything
