@@ -5,6 +5,8 @@ It also contains the models that have to be referred or uploaded on colab when r
 
 ARC_data.zip and khan_acad_data.zip has two datasets with train and test and val csv files
 
+The baseline implementation files are maintainted in the following folder structure.
+
 # Code and notebooks -> QC Science :
 
   -----IR_PROJECT_QC_BERT_euclidean_baselines_training_.ipynb  -> BERT multiclass(labels embedding) and BERT multiclass (prototypical embedding) baselines training script <br />
