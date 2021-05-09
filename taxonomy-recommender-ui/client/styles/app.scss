@@ -1,0 +1,124 @@
+body {
+  font: 100% $font-lato;
+  font-weight: 400;
+  color: $dark-gray-color;
+  letter-spacing: 0.075rem;
+}
+
+input,
+textarea,
+button {
+  letter-spacing: 0.075rem;
+}
+
+.UploadFile {
+  text-align: center;
+  background-color: rgb(206, 213, 223);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.card_lo {
+  background-color: white;
+  padding: 32px;
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11),
+    0 5px 15px 0 rgba(0, 0, 0, 0.08);
+  box-sizing: border-box;
+  font-size: calc(10px + 2vmin);
+
+}
+.confidence{
+  padding-left: 1rem;
+}
+
+.Card {
+  background-color: white;
+  padding: 32px;
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.11),
+    0 5px 15px 0 rgba(0, 0, 0, 0.08);
+  box-sizing: border-box;
+}
+
+.hierarchy {
+  float: right;
+  margin-left: 6rem;
+}
+.cognitive_level,.difficulty_level {
+  float: right;
+  margin-left: 1rem;
+}
+.bloom_taxonomy{
+  float: right;
+  margin-left: 6rem;
+}
+.select_skill{
+  margin-top:10rem;
+  margin-left: 5rem;
+  width: 30rem;
+}
+
+.loader {
+  width: auto;
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../images/loader.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ProgressBar {
+  width: 100%;
+  height: 8px;
+  background-color: rgb(183, 155, 229);
+  border-radius: 5px;
+}
+
+.Progress {
+  background-color: rgba(103, 58, 183, 1);
+  height: 100%;
+  margin: 0;
+  border-radius: 5px;
+}
+.search-box-element {
+  display: block;
+  box-sizing: border-box;
+  width: 10%;
+  height: 3rem;
+  padding: 3px 6px;
+  border: 1px solid $light-gray-color;
+  margin: 0 0 1rem;
+  font-family: inherit;
+  font-size: 1.25rem;
+  color: $medium-gray-color;
+  background-color: $white-color;
+  border-radius: 1px;
+  transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
+}
+.label-style {
+  margin-top: 66px;
+font-size: 3rem
+}
+.fc-content-name,.fc-content-category,.fc-content-nationality,.fc-content-contractExpiry,.fc-content-penalties,.fc-content-workRate{
+  font-size: 1.5rem;
+}
+.fc-content-name {
+  width: 200px;
+}
+.Name {
+  width: 200px;
+}
+.sort-column,.nationality ,.contractExpiry,.penalties,.workRate{
+  font-size: 2rem;
+}
