@@ -1,0 +1,320 @@
+In this video we'll see how to synthesize alcohols
+using the Grignard reagents.
+So first, we have to learn how to make a Grignard reagent.
+So you start with an alkyl halide, so over here
+on the left.
+And you add a magnesium metal.
+And you need to add something like diethyl ether
+as your solvent.
+You can't have any water present because water
+will react with the Grignard reagent.
+And so this is what you make, over here on the right.
+You end up with a carbon atom bonded to a metal.
+Right?
+So carbon is bonded to magnesium.
+This is called an organometallic bond.
+And you can do this with other metals.
+You can do this with lithium, for example.
+But Grignard reagents are one of those things that's always
+talked about in undergraduate organic chemistry classes.
+And you can see that these two electrons here, these red ones,
+the ones in red.
+I've drawn it like a covalent bond.
+The bond between carbon and magnesium.
+But in reality, it's more ionic than covalent.
+So it's equivalent to the second structure down here.
+Now, in terms of electronegativities,
+carbon is actually more electronegative than magnesium.
+So the two electrons in red are actually
+going to be closer to the carbon atom, itself,
+giving the carbon a negative charge,
+and forming a carbanion.
+And so this is a carbanion that is formed.
+And this is unique because this carbanion can now
+act as a nucleophile in your mechanism to make alcohols.
+So this is the preparation of a Grignard reagent,
+it's proved to be a very, very useful thing
+in organic synthesis, so much so that Victor Grignard won
+the Nobel Prize for his research into this chemistry.
+Let's take a look at the mechanism
+to form a Grignard reagent.
+So I'm going to start with my alkyl halide.
+And this time I'll draw in all of my lone pairs on my halogen,
+like that.
+And we're going to add magnesium, which we know,
+being in Group 2, magnesium has two valence electrons.
+I'm going to draw magnesium's two
+valence electrons like that.
+In the first step of the mechanism,
+magnesium is going to donate one of its electrons.
+All right?
+So we're going to show the movement of one
+of its electrons over here to this carbon.
+We're going to use a half-headed arrow like that.
+So, we're going to make a new anion here,
+because this carbon actually picks up an electron.
+So it actually picks up a negative charge.
+And we call this an anion radical, OK?
+So this intermediate here is called an anion radical.
+So I'll go ahead and write that.
+So it's an anion radical.
+It's an anion because it picked up an electron,
+giving it a negative charge.
+And it's radical because that electron is unpaired.
+So this anion radical is unstable
+and it's going to fragment.
+So these two electrons right here
+are going to come off, onto the halogen.
+Right?
+So let's go ahead and draw what that would give us.
+We now have this carbon with one electron around it
+on the right side, like that.
+And now, our halogen over here, it had three lone pairs.
+It just picked up another.
+So it is now negatively charged, like that.
+And the magnesium that we started with
+donated an electron.
+Right?
+So this magnesium has one electron left around it.
+One valence electron.
+And it donated an electron, which gives it a plus 1 charge.
+Right?
+So this magnesium is now positively charged
+because it donated an electron in the first step.
+And in the next step of the mechanism,
+magnesium can donate its second valence electron.
+And its stable for it to do so, because then it'll
+have an electron configuration like a noble gas.
+So magnesium is going to go ahead and donate
+its second electron over here to the carbon, like that.
+And let's go ahead and draw what would result.
+So we're going to now have our carbon,
+right here, with three bonds.
+With now, with now two electrons around it.
+And that's what gives it its negative 1
+formal charge to make a carbanion.
+Magnesium has donated both of its electrons.
+So this magnesium is now a plus 2 charged cation.
+So Mg2 plus, like that.
+And then the halogen is going to form an ionic bond
+with the magnesium on the right side here.
+So we have our halogen, which is negatively charged.
+Right?
+So we have a magnesium with two positive charges.
+And then, we have two things with negative charges
+around it, forming ionic bonds, right?
+So this is our carbanion.
+And, so I could redraw this stuff
+on the left with this carbon here.
+I can make it an R group with the lone pair of electrons,
+a negative 1 formal charge.
+And all the stuff on the right, I
+could just write it like this.
+There are several ways that you'll see this written.
+I could just say this is MgX with a plus 1 charge.
+So this just allows us to focus in on this carbanion
+here with a negative 1 charge.
+Or I could just pretend like everything's covalent
+and just save myself some time, right?
+I could go like that.
+And organic chemists understand what
+this organometallic compound means,
+that the R group is negatively charged as a carbanion.
+So, you'll see several different ways
+to write a Grignard reagent, just as long
+as you understand what's going on.
+That's the most important thing.
+So let's now take the Grignard reagent we just formed,
+and let's make an alcohol with it.
+OK, so I'll go ahead and write it the last way I did.
+It doesn't really matter how you do it.
+All right, so this is our generic reaction.
+We're going to introduce a carbonyl compound.
+So for this generic reaction I'm just going to say,
+it's some generic carbonyl.
+So I'm not going to show what's attached
+to either side of my carbonyl carbon here.
+And diethyl ether once again is our solvent.
+You have to exclude water from this reaction again,
+because the Grignard reagent will react with it.
+So in the first step, you want it to react with your carbonyl.
+And the second step, once it's reacted with the carbonyl,
+it's OK to add water in the form of H3O plus.
+And this is going to form our alcohol.
+So we're going to form an alcohol as our product.
+And this carbon here came from our carbonyl,
+and this R group is going to attach to that carbonyl carbon.
+That comes from our Grignard reagent.
+So it's a very useful reaction because it's a carbon, carbon,
+bond forming reaction.
+Right?
+So this R group had a carbon on the end.
+And then this carbon right here.
+So forming carbon, carbon bonds is very important
+when you're trying to build large, organic molecules using
+synthesis.
+So this is a very useful way to form either a primary,
+secondary, or a tertiary alcohol.
+It all depends on what sort of carbonyl compound
+that you're starting with.
+So let's show the mechanism for what's happening.
+All right.
+So I'm going to say the Grignard reagent is
+a source of carbanions, right?
+So I'm just going to draw my carbanion here like that.
+And then my carbonyl, right?
+I have carbon double bonded to an oxygen.
+And I'm going to make this, you know,
+anything could be attached the carbon for right now.
+Once again, when you're looking at carbonyl chemistry,
+all you have to do is think about
+electronegativity differences between carbon and oxygen,
+right?
+So go back and watch the electronegativity video.
+We know that oxygen, being more electronegative,
+will draw these electrons in the double bond closer to it,
+giving it a partial negative charge,
+leaving our carbon partially positive.
+Right, so carbon, being partially positive,
+carbon wants electrons, right?
+Carbon is an electrophile.
+And from our Grignard reagent, we have a nucleophile.
+The carbanion is going to act as a nucleophile.
+The negative charge is attracted to the positive charge.
+So the carbanion attacks the carbonyl carbon
+like that, which would kick these electrons off
+onto our oxygen.
+And I'll go ahead and draw the intermediate here.
+So we now have, we now have our R group directly
+attached to our, what used to be our carbonyl carbon.
+And now, our oxygen has three lone pairs
+of electrons around it, which give our oxygen a negative 1
+formal charge, like that.
+So that's the first step of our reaction.
+In the second step, we have hydronium ions floating around,
+right?
+So H3O plus.
+So I'll go ahead and draw H3O plus here, like that.
+And the second step, of course, will be acid based chemistry.
+So a lone pair of electrons on our oxygen
+takes a proton from H3O plus, leaving these electrons behind
+to form water.
+And that is how we get our alcohol.
+OK?
+So that's going to give us our alcohol as our product.
+So, after our acid based reaction.
+All right, let's look at three different examples
+of synthesis of alcohols.
+OK, and let's show the different types
+of alcohols that can be produced.
+So we'll start with formaldehyde here.
+So we'll start with a very simple molecule like that.
+And we'll go ahead and already make our Grignard reagent.
+And we're going to make methyl magnesium bromide,
+so methyl magnesium bromide we're
+going to add in our first step.
+We're going to use her as our solvent.
+And in our second step, we're going to add H3O plus.
+Now, when you're analyzing a Grignard reagent,
+you pretty much have to think, where's my carbanion?
+Right?
+So this carbon right here is negatively charged.
+That's the carbon that's going to attack my carbonyl.
+So if this carbon attacks my carbonyl, right?
+And the electrons kick off onto here, right?
+As our intermediate, we would have
+hydrogens on either side of our carbon.
+A negatively charged oxygen up here.
+And the R group, this time, is a methyl group like that.
+So after you protonate it, right, in the second step.
+So after these, so we'll just say,
+these lone pair of electrons are going
+to pick up a proton from H3O plus, right?
+We would form this carbon with two hydrogens.
+We're going to protonate our alc oxide to form an alcohol up
+here for our product.
+And if you look at that molecule closely,
+you'll notice it is ethanol.
+Right?
+So you make a primary alcohols if you use formaldihide.
+So this is a primary alcohol.
+Its primary because the carbon attached to the OH
+1is attached to one other carbon.
+1Let's see how we can make secondary alcohols.
+1OK, so this time you need to start with an aldehide.
+1So instead of two hydrogens on either side of your carbon,
+1as we did before, this time you have
+1to have an R group on one side.
+1So this will be our aldehide, like that.
+1All right, and let's go ahead and use the same Grignard
+1reagent.
+1We use methyl magnesium bromide again.
+1Like that, and second step, H3O plus.
+1So once again, think about what is your nucleophile.
+1Right?
+1So the negatively charged carbon is going to be my nucleophile.
+1Is going to attack my carbonyl, kick these electrons off.
+1So once again, when we draw the intermediate,
+1all right, up at the top here.
+1We have our alc oxide anion, negatively charged.
+1The hydrogen is still there.
+1And what we did was, we added a methyl group on.
+1So this CH3 at the bottom of our intermediate
+1came from our Grignard reagent.
+1And once again, acid based chemistry,
+1to protonate the alc oxide, we'll
+1form our secondary alcohol like that.
+1So that would be the secondary alcohol
+1that is produced from this reaction.
+1Once again, this carbon is attached to two other carbons,
+1making this a secondary alcohol.
+1All right, so one more example here.
+1This time we will react our Grignard reagent with a ketone.
+1So we'll start with our ketone over here, on the left.
+1So here's our ketone.
+1So it's cyclohexanone.
+1And once again, let's stick with methyl magnesium bromide.
+1And so we have methyl magnesium bromide that we add.
+1And again, our solvent is ether, excluding water.
+1And second step, we're going to add a source of proton.
+1So H3O plus.
+1So once again, the exact same mechanism, exact same thinking
+1involved.
+1Right?
+1Our negatively charged carbanion attacks, our carbonyl carbon,
+1kicking these electrons off onto our oxygen.
+1All right, so we form our intermediate.
+1Right, so this top oxygen here now has
+1three lone pairs of electrons, negatively charged.
+1And actually, let me go ahead and take that
+1off there so we can better show the atoms attached
+1to that carbonyl carbon, right?
+1So, if I'm showing that methyl group attacking that carbonyl,
+1I'm going to push that alc oxide over here a little bit
+1to the left.
+1And that's going to get my negative charge.
+1And that way, that just gives me some space
+1to put my methyl group right here, like that.
+1And that just looks a little bit closer
+1to what my final product will look like.
+1Right?
+1So this lone pair of electrons, right?
+1As usual, this lone pair, one of these one pairs
+1is going to pick up a proton right here.
+1And that's going to form our product.
+1Right, so we now protonate our alc oxide to form our alcohol,
+1like that.
+1So our alcohol is going to form right here.
+1And then, our methyl group adds on right here.
+1And, if you look closely, you can
+1see this is a tertiary alcohol that we just made.
+1All right, so this carbon is connected
+1to one, two, three other carbons.
+1So, Grignard reagents are very useful for making alcohols.
+1And you can make either primary, secondary, or tertiary alcohols
+1from them.
+1So it's a very versatile reagent to use.
+1In the next video, we'll take a look
+1at more about Grignard reagents, and we'll talk a little bit
+1about how to work backwards and think about synthesis problems.
+1

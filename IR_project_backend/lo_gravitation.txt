@@ -1,0 +1,1 @@
+Deduce the variation in the value of g due to variation in R
