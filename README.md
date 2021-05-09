@@ -31,3 +31,16 @@ on ARC dataset
 
 
 All models are available at https://drive.google.com/drive/folders/1bDLaaSnlaNBXKTAWYNR77Ifjlo7x6jMd?usp=sharing . Mount drive on google colab and the code takes care of loading everything
+
+# Following are instructions to run the demo
+# Running frontend
+
+cd taxonomy-recommender-ui
+RUN npm install and then 
+RUN npm start
+
+# running backend
+First download IR_project_model_hyperbolic_hinge_5_1.zip and unzip it into models folder of IR_project_backend
+Run python app.py to start the backend
+Navigate to http://localhost:3200 and upload files to get taxonomy recommendations
+
