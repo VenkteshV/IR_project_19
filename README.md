@@ -40,7 +40,7 @@ RUN npm install and then  <br />
 RUN npm start   <br />
 
 # running backend
-First download IR_project_model_hyperbolic_hinge_5_1.zip and unzip it into models folder of IR_project_backend  <br />
+First download IR_project_model_hyperbolic_hinge_5_1.zip  from https://drive.google.com/drive/folders/1bDLaaSnlaNBXKTAWYNR77Ifjlo7x6jMd?usp=sharing  and unzip it into models folder of IR_project_backend  <br />
 Run python app.py to start the backend   <br />
 Navigate to http://localhost:3200 and upload files to get taxonomy recommendations   <br />
 
