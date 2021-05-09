@@ -35,12 +35,12 @@ All models are available at https://drive.google.com/drive/folders/1bDLaaSnlaNBX
 # Following are instructions to run the demo
 # Running frontend
 
-cd taxonomy-recommender-ui
-RUN npm install and then 
-RUN npm start
+cd taxonomy-recommender-ui <br />
+RUN npm install and then  <br />
+RUN npm start   <br />
 
 # running backend
-First download IR_project_model_hyperbolic_hinge_5_1.zip and unzip it into models folder of IR_project_backend
-Run python app.py to start the backend
-Navigate to http://localhost:3200 and upload files to get taxonomy recommendations
+First download IR_project_model_hyperbolic_hinge_5_1.zip and unzip it into models folder of IR_project_backend  <br />
+Run python app.py to start the backend   <br />
+Navigate to http://localhost:3200 and upload files to get taxonomy recommendations   <br />
 
